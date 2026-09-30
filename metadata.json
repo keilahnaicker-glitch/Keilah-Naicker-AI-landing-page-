@@ -1,0 +1,6 @@
+{
+  "name": "AI Landing Page Generator",
+  "description": "Generate premium, high-converting standalone HTML & CSS landing pages tailored to any business type, service, and brand colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
